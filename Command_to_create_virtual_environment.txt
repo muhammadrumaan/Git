@@ -1,0 +1,2 @@
+& "C:\Program Files\Python310\python.exe" -m venv env
+.\env\Scripts\Activate
